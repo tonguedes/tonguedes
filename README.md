@@ -4,7 +4,7 @@
 
 
 - 🔭 Atualmente atuo como Desenvolvedor FullStack | React | JavaScript | Node | Python | Html | jquery | Mysql server | Php | Laravel
-- 🌱 Estudando Python , Flask , Postgre , React, Php, Laravel, Mysq
+- 🌱 Estudando Python , Flask , Postgre , React, Php, Laravel, Mysql
 - 💬 contate-me: hguedes_prado@hotmail.com
 - 😄 ele/dele
 
